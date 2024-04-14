@@ -1,0 +1,48 @@
+ ESCOD
+commit 060d8df3b3acc6e6df8e13cec66862a1b6679a3d (origin/bug1, bug1)
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:29:49 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 0b66929e9e163f26176572407519c009cf7a541f
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:25:49 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 4941c59b15762169a368278dcdabd38ca8ba5670
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:19:04 2024 +0200
+
+    Add starter code
+
+commit 485ebecd3aae527b857ddf266da4dadcd568d279
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:15:10 2024 +0200
+
+    Initial commit
+ ESCOD
+commit 060d8df3b3acc6e6df8e13cec66862a1b6679a3d (origin/bug1, bug1)
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:29:49 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 0b66929e9e163f26176572407519c009cf7a541f
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:25:49 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 4941c59b15762169a368278dcdabd38ca8ba5670
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:19:04 2024 +0200
+
+    Add starter code
+
+commit 485ebecd3aae527b857ddf266da4dadcd568d279
+Author: katetase0612 <katerina.s.taseva@gmail.com>
+Date:   Sun Apr 14 18:15:10 2024 +0200
+
+    Initial commit
